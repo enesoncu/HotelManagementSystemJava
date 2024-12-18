@@ -43,34 +43,18 @@ The **Hotel Room Management System** is a Java-based application designed to str
 
 
 ## Project Structure
-src/
-├── Main.java                # Entry point of the application
-├── Room.java                # Room entity
-├── RoomManager.java         # Handles room operations
-├── Reservation.java         # Reservation entity
-├── ReservationManager.java  # Handles reservation operations
-├── Person.java              # Base class for Customer and Staff
-├── Customer.java            # Customer entity
-├── Staff.java               # Staff entity
-├── StaffManager.java        # Handles staff operations
-├── RoomOperations.java      # Interface for room operations
-├── EntityUtils.java         # Generic class for CSV operations
+- Main.java                # Entry point of the application
+- Room.java                # Room entity
+- RoomManager.java         # Handles room operations
+- Reservation.java         # Reservation entity
+- ReservationManager.java  # Handles reservation operations
+- Person.java              # Base class for Customer and Staff
+- Customer.java            # Customer entity
+- Staff.java               # Staff entity
+- StaffManager.java        # Handles staff operations
+- RoomOperations.java      # Interface for room operations
+- EntityUtils.java         # Generic class for CSV operations
 
-## Project Structure
-
-```plaintext
-src/
-├── Main.java                # Entry point of the application
-├── Room.java                # Room entity
-├── RoomManager.java         # Handles room operations
-├── Reservation.java         # Reservation entity
-├── ReservationManager.java  # Handles reservation operations
-├── Person.java              # Base class for Customer and Staff
-├── Customer.java            # Customer entity
-├── Staff.java               # Staff entity
-├── StaffManager.java        # Handles staff operations
-├── RoomOperations.java      # Interface for room operations
-├── EntityUtils.java         # Generic class for CSV operations
 
 
 ## Key Design Highlights
